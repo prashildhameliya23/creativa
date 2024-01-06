@@ -1019,6 +1019,7 @@ svg {
 .offcanvas-menu.offcanvas-menu-sm a:not(:only-child):after {
   content: "\f3d3";
   top: 6px;
+  display: none;
 }
 
 .offcanvas-menu.offcanvas-menu-sm .active > a:not(:only-child):after {
